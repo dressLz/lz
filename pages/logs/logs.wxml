@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view>
+  <mytree model='{{ treeData }}' bind:tapitem='tapItem'></mytree>
+</view>

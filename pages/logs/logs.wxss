@@ -1,0 +1,27 @@
+.ul .li-item {
+  width: 100%;
+  height: 100rpx;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40rpx 0 30rpx;
+  font-size: 30rpx;
+  font-family: PingFang-SC-Medium;
+  font-weight: 500;
+  color: rgba(90, 90, 90, 1);
+  border-bottom: 0.5rpx solid rgba(213, 213, 214, 0.5);
+}
+.ul .li-item-child{
+  padding-left:60rpx;
+}
+.ul .li-item .text {
+  font-size: 30rpx;
+  font-family: PingFang-SC-Medium;
+  font-weight: 500;
+  color: rgba(169, 169, 169, 1);
+}
+.menu-img{
+  width: 23rpx;
+  height: 23rpx;
+}

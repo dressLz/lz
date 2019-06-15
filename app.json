@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/logs/logs",
+    "pages/components/mytree/mytree"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
